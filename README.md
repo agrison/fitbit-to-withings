@@ -25,7 +25,7 @@ You can just upload them one by one and you are good to go.
 
 I did it only for weight data, the process is similar for heart rate, but it would generate too much file.
 
-### Procedure
+# Procedure
 
 1. Login to your Fitbit Account
 2. Go to **Settings > Data Export**, then ask for a full export
