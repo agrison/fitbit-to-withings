@@ -3,7 +3,7 @@
 So my Fitbit Aria just died, and I ordered a Withings Body+. 
 
 Sadly it seems that you can only import steps from a Fitbit account, 
-it appears that weight is not a use case for them. 
+it appears that weight is not a valid use case. 
 
 So I'm here, writing this small program to do it for me.
 
